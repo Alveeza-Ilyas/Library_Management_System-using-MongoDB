@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "694febfc63eca3ef87426958"
+  },
+  "title": "Database Systems",
+  "author": "Elmasri",
+  "isbn": "12345",
+  "copies": 5,
+  "createdAt": {
+    "$date": "2025-12-27T14:23:56.639Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-27T14:23:56.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695038bc1fc9c0fc8eb006dd"
+  },
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "isbn": "978-0062315007",
+  "copies": 4,
+  "createdAt": {
+    "$date": "2025-12-27T19:51:24.795Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-27T19:51:24.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695039bc1fc9c0fc8eb006e4"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "isbn": "978-0451524935",
+  "copies": 4,
+  "createdAt": {
+    "$date": "2025-12-27T19:55:40.558Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-27T19:55:40.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69503ab31fc9c0fc8eb006e8"
+  },
+  "title": "Harry Potter",
+  "author": "J.K. Rowling",
+  "isbn": "978-0439708180",
+  "copies": 2,
+  "createdAt": {
+    "$date": "2025-12-27T19:59:47.516Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-27T19:59:47.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69503c029b111d5e566c128d"
+  },
+  "title": "Atomic Habits",
+  "author": "James Clear",
+  "isbn": "978-0735211292",
+  "copies": 3,
+  "createdAt": {
+    "$date": "2025-12-27T20:05:22.888Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-27T20:05:22.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69503e6a6726bd9b29b8fe50"
+  },
+  "title": "The Martian",
+  "author": "Andy Weir",
+  "isbn": "978-0553418026",
+  "copies": 5,
+  "createdAt": {
+    "$date": "2025-12-27T20:15:38.608Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-27T20:15:38.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69503eb76726bd9b29b8fe53"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "isbn": "978-0679783268",
+  "copies": 2,
+  "createdAt": {
+    "$date": "2025-12-27T20:16:55.089Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-27T20:16:55.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69513bef1e3b7d3bcd1d8b5a"
+  },
+  "title": "Rich Dad Poor Dad",
+  "author": "Robert Kiyosaki",
+  "isbn": "978-1612680194",
+  "copies": 5,
+  "createdAt": {
+    "$date": "2025-12-28T14:17:19.460Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-28T14:17:19.460Z"
+  },
+  "__v": 0
+}]
